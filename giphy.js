@@ -21,11 +21,9 @@ $(document).ready(function(){
     function newGif(){
         
         var gif = $(this).attr("data-name");
-        animalList.push(animal);
         var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + gif +"&api_key=KgXj6MbTpULzjBt1ooKPO5dWtWhLJcfG&limit=10";
         $(".gifs-appear").empty();
         console.log(gif);
-        animalList.push(animal);
     $.ajax({
         url:queryURL,
         method:"GET"

@@ -2,11 +2,13 @@
 
 Deployed: https://jennyna13.github.io/giphy/
 
-Created by: Jenny Na
+<h2>Created by</h2> <p>Jenny Na</p>
 
-Technologies used: HTML, CSS, Javascript, JSON
+<h2>Technologies</h2> <p>HTML, CSS, Javascript, JSON</p>
 
-When you click buttons, still image of gifs show up. When you click the gif image, gif becomes animated. When you click again, it goes back to the still image. 
+<h2>Discription</h2>
+
+When you click buttons, still image of gifs show up. When you click the gif image, gif becomes animated. When you click again, it goes back to the still image.
 
 I placed the input box on the right for users to create more animal gif buttons.
 
